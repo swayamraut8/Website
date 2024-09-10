@@ -88,7 +88,7 @@ export default function TE() {
                     <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                             <Card name={data[22].name} position={data[22].position} image={data[22].img} insta={data[22].insta} linkedin={data[22].linkedin} github={data[22].github} align="top"/>
                             <Card name={data[23].name} position={data[23].position} image={data[23].img} insta={data[23].insta} linkedin={data[23].linkedin} github={data[23].github} align="top"/>
-                            <Card name={data[24].name} position={data[24].position} image={data[24].img} insta={data[24].insta} linkedin={data[22].linkedin} github={data[24].github} />
+                            <Card name={data[24].name} position={data[24].position} image={data[24].img} insta={data[24].insta} linkedin={data[24].linkedin} github={data[24].github} />
                             <Card name={data[25].name} position={data[25].position} image={data[25].img} insta={data[25].insta} linkedin={data[25].linkedin} github={data[25].github} />
 
                         </div>
