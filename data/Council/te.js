@@ -202,9 +202,9 @@ export default [
     name: 'Rohan Khamitkar',
     img: '../te/Rohan.jpg',
     position: 'Junior Graphics Officer',
-    insta: 'https://instagram.com/madhuj_21?igsh=MTVibGV5Znpwa3E3Zw==',
-    linkedin: 'https://www.linkedin.com/madhura-jangale-b610b6296',
-    github: 'https://github.com/madhurajangale'
+    insta: 'https://www.instagram.com/rohan_khamitkar?igsh=a3B0Zmc5Z2NiNnh1',
+    linkedin: 'https://www.linkedin.com/in/rohan-khamitkar-004545268/',
+    github: '#'
   },
   {
     name: 'Tejas Patil',
