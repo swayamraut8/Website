@@ -18,7 +18,7 @@ export default [
         text: "Augmented reality (AR) is the real-time use of information in the form of text, graphics, audio and other virtual enhancements integrated with real-world objects",
     },
     {
-        img: "https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        img: "https://wayspire.in/wp-content/uploads/2022/11/web-development.jpg",
       
         title: "Web Development",
         text: "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",

@@ -95,6 +95,7 @@ export default function BE() {
                 insta={data[1].insta}
                 linkedin={data[1].linkedin}
                 github={data[1].github}
+                align="top"
               />
               <Card
                 name={data[2].name}
@@ -217,6 +218,7 @@ export default function BE() {
                 insta={data[13].insta}
                 linkedin={data[13].linkedin}
                 github={data[13].github}
+                align="top"
               />
               <Card
                 name={data[14].name}

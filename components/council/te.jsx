@@ -35,7 +35,7 @@ export default function TE() {
                     <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                         <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                             <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github} align="top"/>
-                            <Card name={data[1].name} position={data[1].position} image={data[1].img} insta={data[1].insta} linkedin={data[1].linkedin} github={data[1].github} />
+                            <Card name={data[1].name} position={data[1].position} image={data[1].img} insta={data[1].insta} linkedin={data[1].linkedin} github={data[1].github} align="top"/>
                             <Card name={data[2].name} position={data[2].position} image={data[2].img} insta={data[2].insta} linkedin={data[2].linkedin} github={data[2].github} />
                             <Card name={data[3].name} position={data[3].position} image={data[3].img} insta={data[3].insta} linkedin={data[3].linkedin} github={data[3].github} />
                         </div>
@@ -67,7 +67,7 @@ export default function TE() {
                         <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
                             <Card name={data[15].name} position={data[15].position} image={data[15].img} insta={data[15].insta} linkedin={data[15].linkedin} github={data[15].github} />
                             <Card name={data[16].name} position={data[16].position} image={data[16].img} insta={data[16].insta} linkedin={data[16].linkedin} github={data[16].github} align="top"/>
-                            <Card name={data[17].name} position={data[17].position} image={data[17].img} insta={data[17].insta} linkedin={data[17].linkedin} github={data[17].github} />
+                            <Card name={data[17].name} position={data[17].position} image={data[17].img} insta={data[17].insta} linkedin={data[17].linkedin} github={data[17].github} align="top" />
 
                         </div>
                     </section>
@@ -75,7 +75,7 @@ export default function TE() {
                 <TabPanel>
                     <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                         <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
-                        <Card name={data[18].name} position={data[18].position} image={data[18].img} insta={data[18].insta} linkedin={data[18].linkedin} github={data[18].github} />
+                        <Card name={data[18].name} position={data[18].position} image={data[18].img} insta={data[18].insta} linkedin={data[18].linkedin} github={data[18].github} align="top"/>
                         <Card name={data[19].name} position={data[19].position} image={data[19].img} insta={data[19].insta} linkedin={data[19].linkedin} github={data[19].github} />
                         <Card name={data[20].name} position={data[20].position} image={data[20].img} insta={data[20].insta} linkedin={data[20].linkedin} github={data[20].github} />
                         <Card name={data[21].name} position={data[21].position} image={data[21].img} insta={data[21].insta} linkedin={data[21].linkedin} github={data[21].github} />

@@ -49,9 +49,9 @@ export default [
     img: '../te/Chinmay.jpg',
     position: 'Junior Technical Officer',
     insta: '',
-    linkedin: '',
-    github: '',
-    vesMail: ''
+    linkedin: 'https://www.linkedin.com/in/chinmay-chaudhari-121b96220/',
+    github: 'http://www.github.com/brawlerxull',
+    vesMail: '2022.chinmay.chaudhari@ves.ac.in'
   },
   {
     name: 'Dhairyash Jain',
@@ -144,7 +144,7 @@ export default [
   },
   {
     name: 'Shreyas Akmanchi',
-    img: '../te/Shreyas.jpg',
+    img: '../te/Akmanchi.jpg',
     position: 'Junior Operations Officer',
     insta: 'https://www.instagram.com/priyanshu_gurwani/',
     linkedin: 'https://www.linkedin.com/in/priyanshu-gurwani-869856246',
@@ -194,9 +194,9 @@ export default [
     name: 'Madhura Jangale',
     img: '../te/Madhura.jpg',
     position: 'Junior Graphics Officer',
-    insta: 'https://www.instagram.com/deven_bhagtani/',
-    linkedin: 'https://www.linkedin.com/in/deven-bhagtani-a8b2281ab',
-    github: 'https://github.com/devensinghbhagtani'
+    insta: 'https://instagram.com/madhuj_21?igsh=MTVibGV5Znpwa3E3Zw==',
+    linkedin: 'https://www.linkedin.com/madhura-jangale-b610b6296',
+    github: 'https://github.com/madhurajangale'
   },
   {
     name: 'Rohan Khamitkar',
