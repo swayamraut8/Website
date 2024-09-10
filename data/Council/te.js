@@ -154,7 +154,7 @@ export default [
     name: 'Shreyas Pathak',
     img: '../te/Shreyas.jpg',
     position: 'Junior Operations Officer',
-    insta: 'hhttps://www.instagram.com/shreyas_pathak__/',
+    insta: 'https://www.instagram.com/shreyas_pathak__/',
     linkedin: 'https://www.linkedin.com/in/shreyas-pathak-16968b202',
     github: 'https://github.com/shreyas924'
   },
