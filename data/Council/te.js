@@ -73,7 +73,7 @@ export default [
   },
   {
     name: 'Parth Takale',
-    img: '../te/parth.jpg',
+    img: '../te/Parth.jpg',
     position: 'Junior Technical Officer',
     insta: 'https://www.instagram.com/hxrmxs._/',
     linkedin: 'https://www.linkedin.com/in/parth-takale-514188264/',
@@ -100,7 +100,7 @@ export default [
   },
   {
     name: 'Swayam Raut',
-    img: '../te/swayam.jpg',
+    img: '../te/Swayam.jpg',
     position: 'Junior Technical Officer',
     insta: 'https://www.instagram.com/https.swayam.io/',
     linkedin: 'https://www.linkedin.com/in/swayam-raut-330a77251/',
