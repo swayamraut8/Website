@@ -146,17 +146,17 @@ export default [
     name: 'Shreyas Akmanchi',
     img: '../te/Akmanchi.jpg',
     position: 'Junior Operations Officer',
-    insta: '',
+    insta: 'https://www.instagram.com/shreyasss.a/profilecard/?igsh=MWFxYzJrOTZtdHA3aA==',
     linkedin: 'https://www.linkedin.com/in/shreyas-akmanchi-34907b200/',
-    github: ''
+    github: 'https://github.com/shutupshreyas'
   },
   {
     name: 'Shreyas Pathak',
     img: '../te/Shreyas.jpg',
     position: 'Junior Operations Officer',
-    insta: 'https://www.instagram.com/shreyas_pathak__/',
-    linkedin: 'https://www.linkedin.com/in/ishwari-datir-01aa09227',
-    github: 'https://github.com/Ishwari8104'
+    insta: 'hhttps://www.instagram.com/shreyas_pathak__/',
+    linkedin: 'https://www.linkedin.com/in/shreyas-pathak-16968b202',
+    github: 'https://github.com/shreyas924'
   },
   {
     name: 'Aditya Mhatre',
@@ -178,17 +178,17 @@ export default [
     name: 'Krish Salvi',
     img: '../te/Krish.jpg',
     position: 'Public Relations Officer',
-    insta: 'https://www.instagram.com/invites/contact/?i=1k2rnjn7fztc2&utm_content=1dsjzpu',
-    linkedin: ' www.linkedin.com/in/krish-salvi-77b7642a3',
-    github: 'https://github.com/notion522'
+    insta: 'https://www.instagram.com/_krishh.s__/',
+    linkedin: 'http://www.linkedin.com/in/krish-salvi-77b7642a3',
+    github: 'https://github.com/krishgit22'
   },
   {
     name: 'Swati Dubey',
     img: '../te/Swati.jpg',
     position: 'Public Relations Officer',
-    insta: 'https://www.instagram.com/kinjala.ahuja123/',
-    linkedin: 'https://www.linkedin.com/in/kinjala-ahuja-89b134251/',
-    github: 'https://github.com/AhujaKinjala'
+    insta: 'https://www.instagram.com/swatidubey._/',
+    linkedin: 'https://www.linkedin.com/in/swati-dubey-009172296/',
+    github: 'https://github.com/itsswatidubey'
   },
   {
     name: 'Madhura Jangale',
@@ -218,8 +218,8 @@ export default [
     name: 'Shambhavi Sarode',
     img: '../te/Shambhavi.jpg',
     position: 'Junior Graphics Officer',
-    insta: 'https://www.instagram.com/not_your_apsara/',
-    linkedin: 'https://www.linkedin.com/in/devangana-barua-58871725b/',
-    github: 'https://github.com/devanganaB'
+    insta: 'https://www.instagram.com/_shambhaveee_?igsh=MTB5ajFoenZubTMzZA==',
+    linkedin: 'https://www.linkedin.com/in/shambhavi-sarode-28156b2a6/',
+    github: '#'
   }
 ]

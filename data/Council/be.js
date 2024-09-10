@@ -46,7 +46,7 @@ export default [
     "img": "../be/Ajinkya Jadhav.jpg",
     "position": "Chief Marketing Officer",
     insta: "https://www.instagram.com/ajinkyajadhavv_/",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/ajinkya-jadhav0654/",
     github: "https://github.com/Aj-654",
   },
   // ---------------------------------------- BE Tech ----------------------------------------------------
@@ -79,7 +79,7 @@ export default [
     "img": "../be/Sushmita Santi.jpg",
     "position": "Senior Technical Officer",
     "insta": "https://www.instagram.com/susmitasanti04/",
-    "linkedin": "https://www.linkedin.com/in/susmita-santi-2b8047261/",
+    "linkedin": "https://www.linkedin.com/in/susmita-santi-23309a293/",
     "github": "https://github.com/susmitasanti",
   },
   // ---------------------------------------- BE Ops ----------------------------------------------------
