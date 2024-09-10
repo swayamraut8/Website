@@ -31,7 +31,7 @@ export default [
     img: '../te/Omkar.jpg',
     position: 'Junior Treasurer',
     insta: 'https://www.instagram.com/omkar_og_2110/',
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/omkar-gholap-366b882aa/',
     github: 'https://github.com/omkarlovesdebugging',
     vesMail: '2022.omkar.gholap@ves.ac.in'
   },
@@ -41,14 +41,14 @@ export default [
     position: 'Junior Technical Officer',
     insta: 'https://www.instagram.com/aryankkate/',
     linkedin: 'https://www.linkedin.com/in/aryan-kate-a11a80318',
-    github: '',
+    github: 'https://github.com/AryanKKate',
     vesMail: '2022.aryan.kate@ves.ac.in'
   },
   {
     name: 'Chinmay Chaudhari',
     img: '../te/Chinmay.jpg',
     position: 'Junior Technical Officer',
-    insta: '',
+    insta: 'https://www.instagram.com/mr_chinmay03?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     linkedin: 'https://www.linkedin.com/in/chinmay-chaudhari-121b96220/',
     github: 'http://www.github.com/brawlerxull',
     vesMail: '2022.chinmay.chaudhari@ves.ac.in'
@@ -73,12 +73,12 @@ export default [
   },
   {
     name: 'Parth Takale',
-    img: '../te/Parth.jpg',
+    img: '../te/parth.jpg',
     position: 'Junior Technical Officer',
-    insta: '',
-    linkedin: '',
-    github: '',
-    vesMail: ''
+    insta: 'https://www.instagram.com/hxrmxs._/',
+    linkedin: 'https://www.linkedin.com/in/parth-takale-514188264/',
+    github: 'https://github.com/Parthtakale06',
+    vesMail: '2022.parth.takale@ves.ac.in'
   },
   {
     name: 'Shivpratik Hande',
@@ -100,7 +100,7 @@ export default [
   },
   {
     name: 'Swayam Raut',
-    img: '../te/Swayam.jpg',
+    img: '../te/swayam.jpg',
     position: 'Junior Technical Officer',
     insta: 'https://www.instagram.com/https.swayam.io/',
     linkedin: 'https://www.linkedin.com/in/swayam-raut-330a77251/',
@@ -139,16 +139,16 @@ export default [
     img: '../te/Sakshi.jpg',
     position: 'Junior Operations Officer',
     insta: 'https://www.instagram.com/sakshi_kharade21?igsh=ZnBlNmpsYmI3cjRq',
-    linkedin: 'https://www.linkedin.com/in/sarvadnya-awaghad/',
+    linkedin: 'https://www.linkedin.com/in/sakshi-kharade-82958b25a/',
     github: 'https://github.com/Octochic'
   },
   {
     name: 'Shreyas Akmanchi',
     img: '../te/Akmanchi.jpg',
     position: 'Junior Operations Officer',
-    insta: 'https://www.instagram.com/priyanshu_gurwani/',
-    linkedin: 'https://www.linkedin.com/in/priyanshu-gurwani-869856246',
-    github: 'https://github.com/PGurwani'
+    insta: '',
+    linkedin: 'https://www.linkedin.com/in/shreyas-akmanchi-34907b200/',
+    github: ''
   },
   {
     name: 'Shreyas Pathak',
@@ -179,7 +179,7 @@ export default [
     img: '../te/Krish.jpg',
     position: 'Public Relations Officer',
     insta: 'https://www.instagram.com/invites/contact/?i=1k2rnjn7fztc2&utm_content=1dsjzpu',
-    linkedin: 'www.linkedin.com/in/krish-salvi-77b7642a3',
+    linkedin: ' www.linkedin.com/in/krish-salvi-77b7642a3',
     github: 'https://github.com/notion522'
   },
   {
@@ -195,7 +195,7 @@ export default [
     img: '../te/Madhura.jpg',
     position: 'Junior Graphics Officer',
     insta: 'https://instagram.com/madhuj_21?igsh=MTVibGV5Znpwa3E3Zw==',
-    linkedin: 'https://www.linkedin.com/madhura-jangale-b610b6296',
+    linkedin: 'https://www.linkedin.com/in/madhura-jangale-b610b6296/',
     github: 'https://github.com/madhurajangale'
   },
   {

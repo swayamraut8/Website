@@ -29,9 +29,9 @@ export default [
     "name": "Aditya Nama",
     "img": "../be/Aditya Nama.jpg",
     "position": "Senior Treasurer",
-    "insta": "https://www.instagram.com/manaslalwani/",
-    "linkedin": "https://www.linkedin.com/in/manas-lalwani-b43a7a1bb",
-    "github": "https://github.com/ManasLalwani",
+    "insta": "https://www.instagram.com/adityanama03?igsh=MW01cmRmdnQ0MnBqag==",
+    "linkedin": "http://www.linkedin.com/in/aditya-nama-a07139272",
+    "github": "https://github.com/AdityaNama03",
   },
   {
     "name": "Aum Kulkarni",
@@ -60,7 +60,7 @@ export default [
   },
   {
     "name": "Nilesh Balotiya",
-    "img": "../be/Nilesh Balotiya.jpg",
+    "img": "../be/nilesh.jpg",
     "position": "Senior Technical Officer",
     "insta": "https://www.instagram.com/nilesshh._/",
     "linkedin": "https://www.linkedin.com/in/nilesh-balotiya-baba58268/",
@@ -70,12 +70,12 @@ export default [
     "name": "Rishabh Gupta",
     "img": "../be/Rishabh Gupta.jpg",
     "position": "Senior Technical Officer",
-    "insta": "https://www.instagram.com/hrishikeshhh_/",
-    "linkedin": "https://www.linkedin.com/in/hrishikesh-patil-2002/",
-    "github": "https://github.com/hrishi0102",
+    "insta": "https://www.instagram.com/__rishhabh_/",
+    "linkedin": "https://www.linkedin.com/in/rishabh-gupta-a22666226/",
+    "github": "https://github.com/rish88c",
   },
   {
-    "name": "Sushmita Santi",
+    "name": "Susmita Santi",
     "img": "../be/Sushmita Santi.jpg",
     "position": "Senior Technical Officer",
     "insta": "https://www.instagram.com/susmitasanti04/",
@@ -84,7 +84,7 @@ export default [
   },
   // ---------------------------------------- BE Ops ----------------------------------------------------
   {
-    "name": "Atharva Malum",
+    "name": "Atharva Mulam",
     "img": "../be/Atharva Malum.jpg",
     "position": "Senior Operations Officer",
     "insta": "https://instagram.com/atharvamulam?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
@@ -95,7 +95,7 @@ export default [
     "name": "Ishwari Datir",
     "img": "../be/Ishwari Datir.jpg",
     "position": "Senior Operations Officer",
-    "insta": "https://instagram.com/ishwari_8104?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+    "insta": "https://www.instagram.com/ishh_says_what?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     "linkedin": "https://www.linkedin.com/in/ishwari-datir-01aa09227",
     "github": "https://github.com/Ishwari8104",
   },
@@ -110,7 +110,7 @@ export default [
   // ---------------------------------------- BE Graphics ----------------------------------------------------
   {
     "name": "Deven Bhagtani",
-    "img": "../be/Deven Bhagtani.jpg",
+    "img": "../be/deven.jpg",
     "position": "Senior Graphics Officer",
     "insta": "https://www.instagram.com/deven_bhagtani/",
     "linkedin": "https://www.linkedin.com/in/deven-bhagtani-a8b2281ab",
@@ -134,11 +134,11 @@ export default [
   },
   // ----------------------------------------- BE Editors ---------------------------------------------------
   {
-    "name": "Adheeti Daalal",
-    "img": "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/kelxrbdle9lab3akzuf7.jpg",
+    "name": "Adheeti Dalal",
+    "img": "../be/Adheeti.jpg",
     "position": "Senior Editor",
     "insta": "https://instagram.com/adheeeti?igshid=OGQ5ZDc2ODk2ZA==",
-    "linkedin": "#",
+    "linkedin": "https://www.linkedin.com/in/adheeti-dalal-191776288/",
     "github": "#",
   },
   {
