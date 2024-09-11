@@ -218,7 +218,7 @@ export default [
     name: 'Shambhavi Sarode',
     img: '../te/Shambhavi.jpg',
     position: 'Junior Graphics Officer',
-    insta: 'https://www.instagram.com/_shambhaveee_?igsh=MTB5ajFoenZubTMzZA==',
+    insta: 'https://www.instagram.com/_shambhaveee_/',
     linkedin: 'https://www.linkedin.com/in/shambhavi-sarode-28156b2a6/',
     github: '#'
   }
