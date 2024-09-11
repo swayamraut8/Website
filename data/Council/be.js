@@ -23,7 +23,7 @@ export default [
     "position": "Chief Executive Officer",
     insta: "https://www.instagram.com/rachana_rane/ ",
     linkedin: "https://www.linkedin.com/in/rachana-rane-7aa533253/ ",
-    github: "https://github.com/Rachana11022004 ",
+    github: "https://github.com/RachanaRane",
   },
   {
     "name": "Aditya Nama",
