@@ -204,7 +204,7 @@ export default [
     position: 'Junior Graphics Officer',
     insta: 'https://www.instagram.com/rohan_khamitkar?igsh=a3B0Zmc5Z2NiNnh1',
     linkedin: 'https://www.linkedin.com/in/rohan-khamitkar-004545268/',
-    github: '#'
+    github: 'https://github.com/rohankhamitkar'
   },
   {
     name: 'Tejas Patil',

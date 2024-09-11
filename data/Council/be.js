@@ -15,7 +15,7 @@ export default [
     "position": "Vice Chairperson",
     "insta": "https://instagram.com/bhaktidaga08?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     "linkedin": "https://www.linkedin.com/in/bhakti-daga-4042b3235",
-    "github": ""
+    "github": "https://github.com/bhaktidaga08"
   },
   {
     "name": "Rachana Rane",
@@ -139,7 +139,7 @@ export default [
     "position": "Senior Editor",
     "insta": "https://instagram.com/adheeeti?igshid=OGQ5ZDc2ODk2ZA==",
     "linkedin": "https://www.linkedin.com/in/adheeti-dalal-191776288/",
-    "github": "#",
+    "github": "",
   },
   {
     "name": "Khyati Hegde",
