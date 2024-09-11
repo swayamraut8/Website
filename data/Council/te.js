@@ -122,7 +122,7 @@ export default [
     position: 'Junior Operations Officer',
     insta: 'https://www.linkedin.com/in/avan-shetty-a22868276/',
     linkedin: 'https://www.linkedin.com/in/avan-shetty-a22868276/',
-    github: '',
+    github: 'https://github.com/avanshh99',
     vesMail: '2022.avan.shetty@ves.ac.in'
   },
   {
