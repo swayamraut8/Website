@@ -120,7 +120,7 @@ export default [
     name: 'Avan Shetty',
     img: '../te/Avan.jpg',
     position: 'Junior Operations Officer',
-    insta: 'https://www.linkedin.com/in/avan-shetty-a22868276/',
+    insta: 'https://www.instagram.com/avan_shh/',
     linkedin: 'https://www.linkedin.com/in/avan-shetty-a22868276/',
     github: 'https://github.com/avanshh99',
     vesMail: '2022.avan.shetty@ves.ac.in'
